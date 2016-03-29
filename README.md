@@ -4,7 +4,7 @@ Click on a title to open a library.
 
 ## General Libraries
 
-* <a href="ttps://www.draw.io/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Ftemplates.xml" target="_blank">Templates:</a> A sample library with basic building blocks for technical diagrams. The comic template uses <a href="http://antiyawn.com/uploads/humorsans.html" target="_blank">Humor Sans</a>.
+* <a href="https://www.draw.io/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Ftemplates.xml" target="_blank">Templates:</a> A sample library with basic building blocks for technical diagrams. The comic template uses <a href="http://antiyawn.com/uploads/humorsans.html" target="_blank">Humor Sans</a>.
 * <a href="https://www.draw.io/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Fun-ocha-icons-bluebox.xml;Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Fun-ocha-icons.xml" target="_blank">UN-OCHA Icons:</a> United Nations Office for the Coordination of Humanitarian Affairs (OCHA) Humanitarian Icons 2012 by <a href="http://www.unocha.org" target="_blank">UN-OCHA</a>.
 
 ## Vector Libraries
