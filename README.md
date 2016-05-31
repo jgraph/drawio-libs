@@ -1,6 +1,6 @@
 # Draw.io Libraries
 
-Click on a title to open a library.
+Click on a title to open a library or go to File, Open Library from URL and enter an URL of the form https://jgraph.github.io/drawio-libs/libs/templates.xml
 
 ## General Libraries
 
