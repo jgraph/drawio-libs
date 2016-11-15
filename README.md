@@ -22,3 +22,4 @@ Not compatible with Microsoft Internet Explorer 8 and below.
 * <a href="https://www.draw.io/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fwindows-10-icons.xml" target="_blank">Windows 10 Icons:</a> A set of Windows 10 icons.
 * <a href="https://www.draw.io/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fgnome-icons.xml" target="_blank">Gnome Icons:</a> Network icons scheme based on Gnome Gorilla's theme.
 * <a href="https://www.draw.io/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffont-awesome.xml" target="_blank">Font Awesome:</a> The iconic font and CSS toolkit <a href="https://fortawesome.github.io/Font-Awesome/" target="_blank">Font Awesome</a>.
+* <a href="https://www.draw.io/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Farista.xml" target="_blank">Arista Icons:</a> A set of Arista networking icons.
