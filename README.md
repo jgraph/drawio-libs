@@ -15,6 +15,8 @@ Click on a title to open a library or go to File, Open Library from URL and ente
 9. Then add this to https://www.draw.io/?splash=0&clibs=U, eg. https://www.draw.io/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ftemplates.xml (where splash=0 bypasses the splash screen). Multiple libraries can be specified by separating them with semicolons. Each value must be prefixed with a U if it's a URL, eg. https://www.draw.io/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fun-ocha-icons-bluebox.xml;Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fun-ocha-icons.xml
 10. You can then share this link and clicking on it will open and install your custom libraries in draw.io
 
+See also: https://desk.draw.io/a/solutions/articles/16000067790
+
 ## General Libraries
 
 * <a href="https://www.draw.io/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ftemplates.xml" target="_blank">Templates:</a> A sample library with basic building blocks for technical diagrams. The Comic template needs <a href="http://antiyawn.com/uploads/humorsans.html" target="_blank">Humor Sans</a>.
