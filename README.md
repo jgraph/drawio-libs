@@ -5,7 +5,7 @@ Click on a title to open a library or go to File, Open Library from URL and ente
 ## Create and share custom libraries:
 
 1. Use the scratchpad or create a new library by clicking File, New Library
-2. Once the library appears in the sidebar, you can add drop cells and images
+2. Once the library appears in the sidebar, you can drag and drop cells and images from the diagram or the computer
 3. Supported image formats are PNG, JPG, SVG and GIF (including animated GIFs). If you are adding SVG files, you can make the colors of the SVG configurable using this method: https://desk.draw.io/support/solutions/articles/16000079239
 4. Once all elements are added, click the pen icon, add titles to the entries and click Export
 5. This will download the library file to your computer
