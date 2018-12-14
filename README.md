@@ -2,6 +2,19 @@
 
 Click on a title to open a library or go to File, Open Library from URL and enter an URL of the form https://jgraph.github.io/drawio-libs/libs/templates.xml
 
+To create and share your own custom library for draw.io, here are the steps:
+
+1. You can either use the scratchpad or create a new library by clicking File, New Library
+2. Once the library appears in the sidebar, you can add cells and images by drag and drop
+3. Supported image formats are PNG, JPG, SVG and GIF (including animated GIFs). If you are adding SVG files, you can make the colors of the SVG configurable using this method: https://desk.draw.io/support/solutions/articles/16000079239
+4. Once you have added all elements to your library, click the pen icon, add titles to the entries and click Export
+5. This will download the library file to your computer
+6. To share the library it must be uploaded to the web and made available via a public URL. One way to do this is to upload the file to a public GitHub repository, like this one.
+7. If you are using GitHub, the URL of the library will be of the form https://raw.githubusercontent.com/ORG/REPO/REF/PATH/FILENAME.xml, eg. https://raw.githubusercontent.com/jgraph/drawio-libs/master/libs/templates.xml
+8. Once you have the URL of the library, you can share that library by encoding the URL and adding it the clibs parameter. To encode the URL, you can paste it into the text box at https://jgraph.github.io/drawio-tools/tools/convert.html and click URL Encode. In our case, this will yield https%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ftemplates.xml
+9. Then add this to https://www.draw.io/?splash=0&clibs=U, eg. https://www.draw.io/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ftemplates.xml (where splash=0 bypasses the splash screen). Multiple libraries can be specified by separating them with semicolons. Each value must be prefixed with a U if it's a URL, eg. https://www.draw.io/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fun-ocha-icons-bluebox.xml;Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fun-ocha-icons.xml
+10. Clicking on such a link will "install" the library in draw.io so it will appear whenever you open draw.io
+
 ## General Libraries
 
 * <a href="https://www.draw.io/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ftemplates.xml" target="_blank">Templates:</a> A sample library with basic building blocks for technical diagrams. The Comic template needs <a href="http://antiyawn.com/uploads/humorsans.html" target="_blank">Humor Sans</a>.
