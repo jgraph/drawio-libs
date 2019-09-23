@@ -37,6 +37,26 @@ Not compatible with Microsoft Internet Explorer 8 and below.
 * <a href="https://www.draw.io/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffont-awesome.xml" target="_blank">Font Awesome:</a> The iconic font and CSS toolkit <a href="https://fortawesome.github.io/Font-Awesome/" target="_blank">Font Awesome</a>.
 * <a href="https://www.draw.io/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Farista.xml" target="_blank">Arista Icons:</a> A set of Arista networking icons.
 * <a href="https://www.draw.io/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fcommvault%2Fcvlt-badges.xml;Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fcommvault%2Fcvlt-infrastructure.xml;Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fcommvault%2Fcvlt-objects.xml;Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fcommvault%2Fcvlt-protected-clients.xml" target="_blank">Commvault Icons:</a> A set of Commvault networking icons.
+* <a href="https://www.draw.io/?splash=0&clibs=
+Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffortinet%2Ffortinet-buildings.xml;
+Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffortinet%2Ffortinet-cloud.xml;
+Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffortinet%2Ffortinet-connector-devops-api.xml;
+Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffortinet%2Ffortinet-devices.xml;
+Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffortinet%2Ffortinet-features.xml;
+Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffortinet%2Ffortinet-generic-devices.xml;
+Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffortinet%2Ffortinet-generic-products.xml;
+Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffortinet%2Ffortinet-generic-technology.xml;
+Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffortinet%2Ffortinet-ot-and-iot.xml;
+Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffortinet%2Ffortinet-people-and-noc-soc.xml;
+Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffortinet%2Ffortinet-people-and-red-blue-team.xml;
+Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffortinet%2Ffortinet-platform-core-elements.xml;
+Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffortinet%2Ffortinet-products.xml;
+Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffortinet%2Ffortinet-saas-family-of-offerings.xml;
+Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffortinet%2Ffortinet-solutions-and-deployment-scenarios.xml;
+Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffortinet%2Ffortinet-threats-and-threat-services.xml;
+Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffortinet%2Ffortinet-vertical-related.xml;
+Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffortinet%2Ffortinet-vm-components.xml;
+" target="_blank">Commvault Icons:</a> A set of Fortinet networking icons.
 * <a href="https://www.draw.io/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fkubernetes.xml" target="_blank">Kubernetes Icons:</a> A set of Kubernetes icons.
 
 Click on a link above to open a library or go to File, Open Library from URL in draw.io and enter an URL of the form https://jgraph.github.io/drawio-libs/libs/templates.xml
