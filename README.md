@@ -56,7 +56,7 @@ Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffortinet%2Ffortinet-solut
 Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffortinet%2Ffortinet-threats-and-threat-services.xml;
 Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffortinet%2Ffortinet-vertical-related.xml;
 Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffortinet%2Ffortinet-vm-components.xml;
-" target="_blank">Commvault Icons:</a> A set of Fortinet networking icons.
+" target="_blank">Fortinet Icons:</a> A set of Fortinet networking icons.
 * <a href="https://www.draw.io/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fkubernetes.xml" target="_blank">Kubernetes Icons:</a> A set of Kubernetes icons.
 
 Click on a link above to open a library or go to File, Open Library from URL in draw.io and enter an URL of the form https://jgraph.github.io/drawio-libs/libs/templates.xml
