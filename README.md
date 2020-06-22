@@ -19,8 +19,7 @@ See also: https://desk.draw.io/support/solutions/articles/16000067790
 
 * <a href="https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ftemplates.xml" target="_blank">Templates:</a> A sample library with basic building blocks for technical diagrams. The Comic template needs <a href="http://antiyawn.com/uploads/humorsans.html" target="_blank">Humor Sans</a>.
 * <a href="https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fun-ocha-icons-bluebox.xml;Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fun-ocha-icons.xml" target="_blank">UN-OCHA Icons:</a> United Nations Office for the Coordination of Humanitarian Affairs (<a href="http://www.unocha.org" target="_blank">OCHA</a>) Humanitarian Icons 2012.
-* <a href="https%3A%2F%2Fraw.githubusercontent.com%2FLKirst%2Fgenogram%2Fmaster%2Fgenogram_library_lk.xml" target="_blank">Genogram:</a> A library with icons for genograms (also known as family diagrams).
-
+* <a href="https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FLKirst%2Fgenogram%2Fmaster%2Fgenogram_library_lk.xml" target="_blank">Genogram:</a> A library with icons for genograms (also known as family diagrams).
 
 ## Vector Libraries
 
