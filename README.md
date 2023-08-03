@@ -4,7 +4,7 @@
 
 1. Use the scratchpad or create a new library by clicking File, New Library
 2. Once the library appears in the sidebar, you can drag and drop cells and images from the diagram or your harddrive
-3. Supported image formats are PNG, JPG, SVG and GIF (including animated GIFs). If you are adding SVG files, you can make the colors of the SVG configurable using this method: https://desk.draw.io/support/solutions/articles/16000079239
+3. Supported image formats are PNG, JPG, SVG and GIF (including animated GIFs). If you are adding SVG files, you can make the colors of the SVG configurable using this method: https://www.drawio.com/doc/faq/svg-edit-colours
 4. When all elements have been added, click the pen icon, add titles to the entries and click Export
 5. This will download the library file to your computer
 6. To share it, the file must be uploaded to the web and made available via a public URL. One way to do this is to upload it to a public GitHub repository.
@@ -13,7 +13,7 @@
 9. Then add this to https://app.diagrams.net/?splash=0&clibs=U, eg. https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ftemplates.xml (where splash=0 bypasses the splash screen). Multiple libraries can be specified by separating them with semicolons. Each value must be prefixed with a U if it's a URL, eg. https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fun-ocha-icons-bluebox.xml;Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fun-ocha-icons.xml
 10. You can then share this link and clicking on it will open and install your custom libraries in draw.io
 
-See also: https://desk.draw.io/support/solutions/articles/16000067790
+See also: https://www.drawio.com/blog/custom-libraries
 
 ## General Libraries
 
