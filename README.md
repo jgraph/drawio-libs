@@ -26,6 +26,8 @@ The compressed XML may be obtained by clicking on the Encode button at https://j
 * <a href="https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ftemplates.xml" target="_blank">Templates:</a> A sample library with basic building blocks for technical diagrams. The Comic template needs <a href="http://antiyawn.com/uploads/humorsans.html" target="_blank">Humor Sans</a>.
 * <a href="https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fun-ocha-icons-bluebox.xml;Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fun-ocha-icons.xml" target="_blank">UN-OCHA Icons:</a> United Nations Office for the Coordination of Humanitarian Affairs (<a href="http://www.unocha.org" target="_blank">OCHA</a>) Humanitarian Icons 2012.
 * <a href="https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FLKirst%2Fgenogram%2Fmaster%2Fgenogram_library_lk.xml" target="_blank">Genogram:</a> A library with icons for genograms (also known as family diagrams).
+* <a href="https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fdigitalocean.xml" target="_blank">DigitalOcean:</a> A library with icons for DigitalOcean resources (scraped from <https://do.co/diagram-kit> and <https://www.digitalocean.com/press>).
+  * WARNING: No license is given by DO for these icons. Use at your own risk!
 
 ## Vector Libraries
 
