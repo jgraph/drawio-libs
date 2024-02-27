@@ -15,11 +15,21 @@
 
 See also: https://www.drawio.com/blog/custom-libraries
 
+## Library File Format
+
+Libraries consist of an enclosing `<mxlibrary>` node containing a JSON array, which in turn contains entries with either an `xml` property with a compressed or uncompressed mxGraphModel or a `data` property with an image data URI (in PNG, JPG or SVG). All entries must have a `w` and `h` property for the width and height of the cell(s) or image in the entry and an optional `title` property for the title in the sidebar and preview. For entries with a `data` property, an optional `"aspect": "fixed"` may be specified to add `aspect=fixed` to the style of the image cell, and an optional `style` attribute can be specified to be added the default style of the image cell. Eg. for `"data": "data:image/png,[...]", "aspect": "fixed", "style": "resizable=0;rotatable=0;"` the resulting cell style will be `shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/png,[...];resizable=0;rotatable=0;`
+
+For uncompressed `xml` properties, `<` must be writter as `&lt;`, `>` must be written as `&gt;` and `"` must written as `\"` (escaped), eg. `"xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Test3\" style=\"whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"120\" height=\"60\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;"`
+
+The compressed XML may be obtained by clicking on the Encode button at https://jgraph.github.io/drawio-tools/tools/convert.html, eg. `"xml": "jVBLDoMgED3N7BE2XVdbV131BKROhASE4LTq7TsVWuPCpAuS95lH3gyo2s9t0tHcQocO1AVUnUKgjPxco3Mghe1ANSCl4AfyeuBWqyuiTjjQPwGZAy/tnpiVLIy0uCJwwMaRyXkylvAe9ePjTNyZNUOeSzcVw5D00GP5EBPhfFhqlUqjFoNHSguPTLYjkydOubcwaHtDe02Pmfe/5LYhg7Lkl27HXL3drd8="`
+
 ## Image (raster) Libraries
 
 * <a href="https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ftemplates.xml" target="_blank">Templates:</a> A sample library with basic building blocks for technical diagrams. The Comic template needs <a href="http://antiyawn.com/uploads/humorsans.html" target="_blank">Humor Sans</a>.
 * <a href="https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fun-ocha-icons-bluebox.xml;Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fun-ocha-icons.xml" target="_blank">UN-OCHA Icons:</a> United Nations Office for the Coordination of Humanitarian Affairs (<a href="http://www.unocha.org" target="_blank">OCHA</a>) Humanitarian Icons 2012.
 * <a href="https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fraw.githubusercontent.com%2FLKirst%2Fgenogram%2Fmaster%2Fgenogram_library_lk.xml" target="_blank">Genogram:</a> A library with icons for genograms (also known as family diagrams).
+* <a href="https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fdigitalocean.xml" target="_blank">DigitalOcean:</a> A library with icons for DigitalOcean resources (scraped from <https://do.co/diagram-kit> and <https://www.digitalocean.com/press>).
+  * WARNING: No license is given by DO for these icons. Use at your own risk!
 
 ## Vector Libraries
 
