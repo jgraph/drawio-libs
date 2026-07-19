@@ -8,7 +8,7 @@
 4. When all elements have been added, click the pen icon, add titles to the entries and click Export
 5. This will download the library file to your computer
 6. To share it, the file must be uploaded to the web and made available via a public URL. One way to do this is to upload it to a public GitHub repository.
-7. If you are using GitHub, use the _RAW_ URL of the library which is of the form https://raw.githubusercontent.com/ORG/REPO/REF/PATH/FILENAME.xml, eg. https://raw.githubusercontent.com/jgraph/drawio-libs/master/libs/templates.xml
+7. If you are using GitHub, use the _RAW_ URL of the library which is of the form https://raw.githubusercontent.com/ORG/REPO/REF/PATH/FILENAME.xml, eg. https://raw.githubusercontent.com/jgraph/drawio-libs/main/libs/templates.xml
 8. Once you have the URL of the library, you can share it by encoding the URL and adding it the clibs parameter. To encode the URL, paste it into the text box at https://jgraph.github.io/drawio-tools/tools/convert.html and click URL Encode. For our example, this will yield https%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ftemplates.xml
 9. Then add this to https://app.diagrams.net/?splash=0&clibs=U, eg. https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ftemplates.xml (where splash=0 bypasses the splash screen). Multiple libraries can be specified by separating them with semicolons. Each value must be prefixed with a U if it's a URL, eg. https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fun-ocha-icons-bluebox.xml;Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fun-ocha-icons.xml
 10. You can then share this link and clicking on it will open and install your custom libraries in draw.io
@@ -46,10 +46,11 @@ The compressed XML may be obtained by clicking on the Encode button at https://j
 * <a href="https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffont-awesome.xml" target="_blank">Font Awesome:</a> The iconic font and CSS toolkit <a href="https://fortawesome.github.io/Font-Awesome/" target="_blank">Font Awesome</a>.
 * <a href="https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Farista.xml" target="_blank">Arista Icons:</a> A set of Arista networking icons.
 * <a href="https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fcommvault%2Fcvlt-badges.xml;Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fcommvault%2Fcvlt-infrastructure.xml;Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fcommvault%2Fcvlt-objects.xml;Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fcommvault%2Fcvlt-protected-clients.xml" target="_blank">Commvault Icons:</a> A set of Commvault networking icons.
+  * NOTE: These icons date from September 2019 and predate both Commvault's October 2019 logo change and the November 2023 "Commvault Cloud" rebrand. Commvault no longer publishes a public icon set (partner portal only), so this library cannot currently be refreshed.
 * <a href="https://app.diagrams.net/?splash=0&clibs=
 Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffortinet%2Ffortinet-buildings.xml;
 Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffortinet%2Ffortinet-cloud.xml;
-Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffortinet%2Ffortinet-connector-devops-api.xml;
+Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffortinet%2Ffortinet-connector-devops_api.xml;
 Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffortinet%2Ffortinet-devices.xml;
 Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffortinet%2Ffortinet-features.xml;
 Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffortinet%2Ffortinet-generic-devices.xml;
