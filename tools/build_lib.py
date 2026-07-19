@@ -103,7 +103,10 @@ def clean_tree(root, mode, warnings):
             la = local(attr)
             if la.startswith('on'):
                 del el.attrib[attr]
-            elif la.startswith(DROP_ATTR_PREFIXES) or la in DROP_ATTRS:
+            elif la.startswith(DROP_ATTR_PREFIXES):
+                del el.attrib[attr]
+            elif la in DROP_ATTRS and mode != 'color':
+                # class/style-element styling must survive in color mode
                 del el.attrib[attr]
             elif la == 'href' and not el.attrib[attr].startswith('#'):
                 raise ValueError('external href: ' + el.attrib[attr])
