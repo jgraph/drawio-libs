@@ -111,6 +111,8 @@ Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fintegration%2Fsap.xml;
 Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fintegration%2Fservers.xml;
 Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fintegration%2Fusers-and-roles.xml
 " target="_blank">Integration Icons:</a> A set of MS Integration icons from <a href="https://github.com/sandroasp/Microsoft-Integration-and-Azure-Stencils-Pack-for-Visio" target="_blank">Sandro Pereira's stencil pack</a> (MIT), including the Microsoft Fabric and Azure Integration Services shapes added in pack v8.0.1.
+* <a href="https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fmaki.xml" target="_blank">Maki Map Icons:</a> The complete set of 215 map/POI icons (recolorable) by <a href="https://github.com/mapbox/maki" target="_blank">Mapbox</a> (CC0), from v8.2.0 (July 2026).
+* <a href="https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ftemaki.xml" target="_blank">Temaki Map Icons:</a> 557 map/POI icons (recolorable) extending the Maki set, by <a href="https://github.com/rapideditor/temaki" target="_blank">Temaki</a> (CC0), from v5.13.0 (July 2026).
 * <a href="https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fkubernetes.xml" target="_blank">Kubernetes Icons:</a> A set of Kubernetes icons. Obsolete, as there is currently an integrated set in the app.
 
 Click on a link above to open a library or go to File, Open Library from URL in draw.io and enter an URL of the form https://jgraph.github.io/drawio-libs/libs/templates.xml
