@@ -148,6 +148,18 @@ def process_svg(path, mode, warnings):
 
     clean_tree(root, mode, warnings)
 
+    # Stroke sets occasionally carry solid detail paths (fill="currentColor"
+    # dice pips etc.); give those their own editable rule instead of leaving
+    # them fixed black
+    solid_used = False
+    if mode == 'mono-stroke':
+        for el in root.iter():
+            v = el.attrib.get('fill')
+            if v is not None and is_color(v):
+                del el.attrib['fill']
+                el.set('class', 'shape_solid')
+                solid_used = True
+
     if mode != 'color':
         # Residual scan must run before the #000000 rule is injected
         body = ''.join(ET.tostring(c, encoding='unicode') for c in root)
@@ -161,6 +173,8 @@ def process_svg(path, mode, warnings):
         style = ET.SubElement(root, '{%s}style' % SVG_NS)
         style.set('type', 'text/css')
         style.text = '.%s{%s:#000000;}' % (class_name, css_prop)
+        if solid_used:
+            style.text += '.shape_solid{fill:#000000;}'
         group = ET.SubElement(root, '{%s}g' % SVG_NS)
         group.set('class', class_name)
         group.extend(children)
