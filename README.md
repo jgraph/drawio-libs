@@ -85,6 +85,8 @@ Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffortinet%2Fv2%2Fot-aware-
 Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffortinet%2Fv2%2Ffortiguard-services.xml;
 Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ffortinet%2Fv2%2Fdevices-and-verticals.xml
 " target="_blank">Fortinet Icons v2 (2026):</a> The current official Fortinet icon library (<a href="https://icons.fortinet.com/" target="_blank">icons.fortinet.com</a>, June 2026), 796 icons in one library per group.
+* <a href="https://app.diagrams.net/?splash=0&clibs=Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Ftp-link.xml" target="_blank">TP-Link Icons:</a> 36 TP-Link SMB networking product shapes — JetStream/Easy Smart/unmanaged switches, ceiling/wall/outdoor access points, SafeStream routers, Pharos CPE and antennas, plus generic network icons — converted from the official <a href="https://www.tp-link.com/us/support/faq/1520/" target="_blank">TP-Link Visio stencil</a> (July 2026).
+  * NOTE: Product-photo style artwork (not recolorable), EMF masters pre-converted to SVG. Entry titles are the vendor's shape names with whitespace/typo normalization only.
 * <a href="https://app.diagrams.net/?splash=0&clibs=
 Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fintegration%2Fadditional-or-support.xml;
 Uhttps%3A%2F%2Fjgraph.github.io%2Fdrawio-libs%2Flibs%2Fintegration%2Fai-machine-learning.xml;
